@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+* {
+	box-sizing: border-box;
+	font-family: 'Pangolin', cursive;
+	/* тут напиши свойство, которое сделает прокрутку плавной */
+}
+
+body {
+	margin: 0;
+	background-color: #ffeeb8;
+}
+
+header, main, footer {
+	width: 768px;
+	margin: 16px auto;
+	background-color: #ffc925;
+	border-radius: 4px;
+	padding: 16px;
+	color: #222;
+}
+
+/* ниже добавь стили так, чтобы получилось как на образце в Инфоматиксе */

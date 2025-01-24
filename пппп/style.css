@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Lobster&family=Raleway:ital,wght@0,100..900;1,100..900&family=Tektur:wght@400..900&display=swap');
+
+a{
+	display: block;
+	padding: 30px;
+	background-color: blue;
+	border-radius: 16px;
+}
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.middle{
+	font-family: "Bad Script", serif;
+}
+.blackfont{
+	color: black
+}
+table {
+	border: 1px solid;
+	color: white;
+	text-align: center;
+}
+td {
+	width: 100;
+	height: 100;
+}
+.red{
+	background-color: red;
+
+}
+.orange {
+	background-color: orange;
+}
+.green {
+	background-color: green;
+}
+.black {
+	background-color: black;
+}
+.hh{
+	color: black;
+}
+.cb1{
+	background-color: red;
+}
+.cb2{
+	background-color: aqua;
+}
+.cb3{
+	background-color: yellow;
+}
+.cb4{
+	background-color: pink;
+}
+.category_box {
+	font-weight: 700;
+	color: white;
+	margin: 8px;
+	height: 60px;
+	padding: 10px;
+}
+.category{
+	color: black;
+	width: 768;
+	margin: 10px;
+}
+.archive{
+	background-color: #eee;
+	text-align: center;
+	height: 256px;
+	padding: 0px 99px;
+}
+.digits{
+	font-weight: 300;
+}
+.aaa{
+	color: black;
+	text-align: center;
+}
+body{
+	background-color: #C8E5F5;
+	color: #086CA2;
+	margin: auto;
+}
+.city{
+	display: flex;
+}
+.left{
+	width: 50%;
+}
+.right{
+	width: 50%;
+}
+.icon{
+	width: 25%;
+}
+.w1{
+	background-image: url(zoo_animals/weather_icons.png);
+	background-position: center center;
+}
+.container{
+	width: 430px;
+	font-family: "Neucha", serif;
+	display: flex;
+}
+header{
+	text-align: center;
+	background-image: url('weather_logo.png');
+	background-repeat:no repeat;
+	background-size: 10%;
+	border: 1px solid;
+}
+.page1{
+	background-color: aliceblue;
+}
+.page2{
+	background-color: lightgoldenrodyellow;
+}
+.page3{
+	background-color: rgb(233, 115, 164);
+}
+.page4{
+	background-color: lightgreen;
+}
